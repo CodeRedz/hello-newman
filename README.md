@@ -1,2 +1,7 @@
 # hello-newman
-test repository
+
+Howdy
+
+Node.js
+Coffeescript
+i have no idea what these are...
